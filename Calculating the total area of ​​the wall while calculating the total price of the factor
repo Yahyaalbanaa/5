@@ -8,3 +8,4 @@ print ("the total area is")
 print (length*width)
 print ("Give the guy $: ")
 print  ((length * width)* the_price)
+ 
